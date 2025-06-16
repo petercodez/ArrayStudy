@@ -14,7 +14,6 @@ int main(){
         }
     }
 
-
     printf("\nSua matriz montada:\n");
     for (int i = 0; i < 3; i++)
     {
@@ -42,6 +41,5 @@ int main(){
         }
         printf("\n");
     }
-
     return 0;
 }
